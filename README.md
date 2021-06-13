@@ -9,6 +9,7 @@ Použité technologie:
 ## Vývoj
 
 Projekt byl nejprve vytvořen s pomocí create-react-app, ale z důvodů problémů při buildu na netlify, byl projekt znovu vytvořej s webpackem.
+odkaz na původní repozitář: https://github.com/WhiteLady1/Calculator
 
 ### Rozvoj
 
