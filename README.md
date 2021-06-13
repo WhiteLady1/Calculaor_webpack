@@ -1,12 +1,15 @@
-# Project Starters
+# Calculator_webpack
 
-Základní nastavení projektu pro Reactovou webovou aplikaci s Webpackem.
+Použité technologie:
+
+1. Webpack
+2. React
+3. Styled-components
 
 ## Vývoj
 
-1. Nainstalujte závislosti příkazem `npm install`.
-1. Spusťte watch s dev serverem příkazem `npm run start`.
+Projekt byl nejprve vytvořen s pomocí create-react-app, ale z důvodů problémů při buildu na netlify, byl projekt znovu vytvořej s webpackem.
 
-## Produkční sestavení
+### Rozvoj
 
-Pro produkční sestavení pusťte příkaz `npm run build`.
+Projekt poslouží pro osvojení si Typescriptu
